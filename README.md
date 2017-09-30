@@ -1,0 +1,1 @@
+# cpp.templates.class1.basic
